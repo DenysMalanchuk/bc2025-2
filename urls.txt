@@ -1,1 +1,2 @@
-"" 
+course://web.backend/?name="Іванець Іван"&group="ФЕІ-23с"&subgroup="Підгрупа 1"#ivanetsivan
+https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=JPY&date=20240127&json
