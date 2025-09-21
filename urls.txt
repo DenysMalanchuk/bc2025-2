@@ -1,2 +1,2 @@
-course://web.backend/?name="Іванець Іван"&group="ФЕІ-23с"&subgroup="Підгрупа 1"#ivanetsivan
+course://web.backend/?name=%22DenysMalanchuk%22&group=%22%D0%A4%D0%95%D0%86-25%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%202%22#DenysMalanchuk%0D%0A
 https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=JPY&date=20240127&json
